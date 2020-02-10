@@ -1,5 +1,5 @@
-/*	Author: fmald002
- *  Partner(s) Name: Robert Rivera
+/*	Author: Vikhyath Avantsa
+ *  Partner(s) Name: Robert Rivera and Francisco Maldonado
  *	Lab Section: 22
  *	Assignment: Lab # 9 Exercise #2
  *	Exercise Description: [optional - include for your own benefit]
